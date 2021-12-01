@@ -1,5 +1,8 @@
-Hello and welcome to devdom
-this is where devdom makes code and other stuff
-thats it lol
+```css
 
-  note: im still learning html and javascript so most code wont be that great.
+Hello and welcome my own repository
+
+This is where ill keep most of my finished projects and other code
+(Languages I use: CSS, HTML, Javascript)
+
+```
