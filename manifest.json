@@ -1,8 +1,8 @@
 {
-    "manifest_version": 2,
+    "manifest_version": 1,
     "name": "Polytoria+",
-    "version": "0.12.6",
-    "description": "a",
+    "version": "1.2.0",
+    "description": "A nice look for the Polytoria website",
     "author": "devdom",
     "permissions": [
       "storage"
